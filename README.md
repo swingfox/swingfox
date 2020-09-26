@@ -6,4 +6,5 @@
 👯 : I’m looking to collaborate on community and/or open source projects  
 💬 : Ask me about Java, Design Patterns and Backend development tools  
 ⚡ : Fun fact: With high power, comes with higher electricity bill!  
+👋 : [Volunteer](https://dctx.ph/volunteer/david-ramirez/) @ DEVCON Community of Technology Experts (DCTx)  
 📫 : You can reach me at drthrax.ramirez@gmail.com  
